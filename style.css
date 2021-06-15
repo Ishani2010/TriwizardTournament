@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+body{
+    font-family: 'Mate SC', serif;
+    text-align: center;
+    background-color: burlywood;
+}
+#taskbutton1{
+    font-family: 'Mate SC', serif;
+    height: 70px;
+    width: 200px;
+    font-size: x-large;
+    border: 5px solid red;
+    background-color: blue;
+    color: yellow;
+    border-radius: 50px;
+    cursor: pointer;
+}
+div{
+    background-color: aquamarine;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    border: 10px solid aquamarine;
+    border-radius: 20px;
+}
+
+
+h2{
+    font-size: 40px;
+    text-decoration: underline;
+}
+h3{
+    font-size: 20px;
+}
+#triwizard-tournament{
+    background-color: white;
+    border: 5px solid burlywood;
+    font-family: 'Mate SC', serif;
+    font-size: 70px;
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: burlywood;
+}
+#taskbutton2{
+    font-family: 'Mate SC', serif;
+    height: 70px;
+    width: 200px;
+    font-size: x-large;
+    border: 5px solid red;
+    background-color: blue;
+    color: yellow;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#taskbutton3{
+    font-family: 'Mate SC', serif;
+    height: 70px;
+    width: 200px;
+    font-size: x-large;
+    border: 5px solid red;
+    background-color: blue;
+    color: yellow;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#taskbutton4{
+    font-family: 'Mate SC', serif;
+    height: 70px;
+    width: 200px;
+    font-size: x-large;
+    border: 5px solid red;
+    background-color: blue;
+    color: yellow;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#taskbutton1:hover{
+    background-color: red;
+    border: 5px solid blue
+}
+#taskbutton2:hover{
+    background-color: red;
+    border: 5px solid blue
+}
+#taskbutton3:hover{
+    background-color: red;
+    border: 5px solid blue
+}
+#taskbutton4:hover{
+    background-color: red;
+    border: 5px solid blue
+}
